@@ -2,7 +2,6 @@
 // another line added for demonstration purposes.
 fn main() {
     print("Hello, world!");
-    print("Goodbye, world!");
 }
 
 // This function prints a given message to the console.
