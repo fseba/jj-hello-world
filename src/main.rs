@@ -2,5 +2,4 @@
 // another line added for demonstration purposes.
 fn main() {
     println!("Hello, world!");
-    println!("Goodbye, world!");
 }
